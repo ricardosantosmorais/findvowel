@@ -1,4 +1,4 @@
-# findvowel
+# Busca vogal
 Exemplo simples para buscar primeira vogal após uma consoante
 
 Projeto desenvolvido no Visual Studio for Mac
