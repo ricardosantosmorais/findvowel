@@ -9,3 +9,4 @@ Console application:
 - O algortimo vai verificar qual vogal está localizada após uma consoante.
 - A vogal não pode está repetida.
 - Deve ser considerada a primeira vogal encontrada.
+- O código foi elbarado da forma mais simples possível.
